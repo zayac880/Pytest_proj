@@ -1,4 +1,4 @@
-import utils.arrs as arrs
+from utils import arrs
 
 
 def test_get():
